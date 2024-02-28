@@ -1,4 +1,6 @@
-# Both TMF and GFW datasets provide a consistent time series of forest
+# Quantifying the fitness of global datasets for forest Loss in Amazonia by comparing two remote sensing datasets: (1) Global Forest Watch (GFW) which maps the forest gain and losses over time, and (2) Tropical Moist Forest (TMF) data published by the Joint Research Centre – European Commission
+
+Both TMF and GFW datasets provide a consistent time series of forest
 loss and deforestation and forest gain. However, TMF data is more
 thematically comprehensive and contains deforestation, land degradation
 and regrowth for longer period of time. Both datasets are easy to work
